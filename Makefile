@@ -1,5 +1,8 @@
 BINARY=engine
 run: 
+	go get
+
+run: 
 	go run main.go
 
 test: 
