@@ -1,5 +1,5 @@
 BINARY=engine
-run: 
+get: 
 	go get
 
 run: 
